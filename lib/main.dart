@@ -110,7 +110,7 @@ class _MyHomePageState extends State<MyHomePage> {
           body: Container(
             decoration: const BoxDecoration(
               image: DecorationImage(
-                  image: AssetImage('images/bg.jpg'), fit: BoxFit.cover),
+                  image: AssetImage('assets/images/bg.jpg'), fit: BoxFit.cover),
             ),
             child: Column(
               children: [
